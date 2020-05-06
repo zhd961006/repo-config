@@ -1,4 +1,10 @@
 server:
   port: 9000
+spring:
+  rabbitmq:
+    host: 121.199.16.83
+    port: 5672
+    username: zhanghaodong1
+    password: 961006  
 
 env: prod
