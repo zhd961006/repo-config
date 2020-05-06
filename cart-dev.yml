@@ -8,4 +8,4 @@ spring:
     username: zhanghaodong1
     password: 961006
 
-env: dev5
+env: dev6
