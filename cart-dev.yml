@@ -9,9 +9,4 @@ spring:
     port: 5672
     username: zhanghaodong1
     password: 961006
-  cloud:
-    config:
-      discovery:
-        enabled: true
-        service-id: CONFIG-SERVER
-      profile: dev
+
