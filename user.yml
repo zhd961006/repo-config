@@ -34,7 +34,7 @@ redis:
   jmxEnabled: true
   redisHost: 121.199.16.83
   redisPort: 6379
-  redisPassword: zhang961006.
+  redisPassword: 961006
   timeout: 1000
 
 resetpassword:
