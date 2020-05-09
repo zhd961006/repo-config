@@ -36,3 +36,6 @@ redis:
   redisPort: 6379
   redisPassword: zhang961006.
   timeout: 1000
+
+resetpassword:
+  timeout: 60
