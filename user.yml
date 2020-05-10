@@ -38,5 +38,5 @@ redis:
   timeout: 1000
 
 resetpassword:
-  timeout: 10
+  timeout: 60
 
