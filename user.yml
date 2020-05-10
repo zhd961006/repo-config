@@ -20,7 +20,7 @@ spring:
     username: zhanghaodong1
     password: 961006
 mybatis:
-  mapper-locations: classpath*:com/zhd/mapper/*Mapper.xml
+  mapper-locations: classpath*:com/xc/mapper/*Mapper.xml
   config-location: classpath:mybatis-config.xml  
 
 redis:
