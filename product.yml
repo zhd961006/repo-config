@@ -27,6 +27,10 @@ spring:
         min-idle: 2
     timeout: 1000
     
+mybatis:
+  mapper-locations: classpath*:com/zhd/mapper/*Mapper.xml
+  config-location: classpath:mybatis-config.xml  
+        
   rabbitmq:
     host: 121.199.16.83
     port: 5672
